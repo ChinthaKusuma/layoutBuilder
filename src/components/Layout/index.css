@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.layout {
+  margin: 30px;
+  padding: 30px;
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
